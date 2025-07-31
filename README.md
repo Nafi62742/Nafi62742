@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Nafi Ahmed!  
-## 🚀 Full Stack Developer | Flutter | Angular | Databases  
+## 🚀 Full Stack Developer | Flutter | Angular | Databases  | AWS
 
-- 🔭 I’m currently working on **Flutter and Angular projects**  
+- 🔭 I’m currently working on **Flutter, AWS and Angular projects**  
 - 🌱 I’m learning **Advanced Design Patterns & Api designing**  
-- 👯 I’m open to collaborating on **project-link-will-be-given**  
 - 📫 How to reach me: **[LinkedIn](https://github.com/Nafi62742) | [Email](mailto:nafiahmed318@gmail.com)**  
 
 ---
