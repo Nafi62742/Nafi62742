@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flutter, AWS and Angular projects**  
 - 🌱 I’m learning **Advanced Design Patterns & Api designing**  
-- 📫 How to reach me: **[LinkedIn](https://github.com/Nafi62742) | [Email](mailto:nafiahmed318@gmail.com)**  
+- 📫 How to reach me: **[LinkedIn]([https://www.linkedin.com/in/racer007/]) | [Email](mailto:nafiahmed318@gmail.com)**  
 
 ---
 ### 🔧 Technologies & Tools:
