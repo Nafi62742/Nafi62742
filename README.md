@@ -18,12 +18,18 @@
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
+### 📊 Featured Projects:
+
+- **[expense_manager](https://github.com/Nafi62742/expense_manager)** - Expense Management app built in Dart/Flutter.
+- **[School-Management-System](https://github.com/Nafi62742/School-Management-System)** - Advanced School Management software in Java.
+- **[Voice-record-and-player](https://github.com/Nafi62742/Voice-record-and-player)** - Java application for recording and playing back audio.
+- **[Getfund](https://github.com/Nafi62742/Getfund)** - JavaScript-based project.
+- **[Flour_To_Pastry](https://github.com/Nafi62742/Flour_To_Pastry)** - HTML/CSS static site build.
+
 ---
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&cache_seconds=86400)
+### 🌐 My Portfolio
+[**Checkout my new Portfolio Site!**](https://nafi62742.github.io/Nafi62742)
 
 ---
 
