@@ -21,9 +21,9 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nafi62742&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&cache_seconds=86400)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafi62742&layout=compact&theme=dark)](https://github.com/Nafi62742)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&cache_seconds=86400)
 
 ---
 
