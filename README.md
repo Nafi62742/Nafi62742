@@ -1,12 +1,15 @@
-# 👋 Hi, I'm Nafi Ahmed!  
-## 🚀 Full Stack Developer | Flutter | Angular | Databases  | AWS
+# 👋 Hi, I'm Nafi Ahmed!
 
-- 🔭 I’m currently working on **Flutter, AWS and Angular projects**  
-- 🌱 I’m learning **Advanced Design Patterns & Api designing**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/racer007/) | [Email](mailto:nafiahmed318@gmail.com)**  
+## 🚀 Full Stack Developer | Flutter | Angular | Databases | AWS
+
+- 🔭 I’m currently working on **Flutter, AWS and Angular projects**
+- 🌱 I’m learning **Advanced Design Patterns & Api designing**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/racer007/) | [Email](mailto:nafiahmed318@gmail.com)**
 
 ---
+
 ### 🔧 Technologies & Tools:
+
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
@@ -29,10 +32,12 @@
 ---
 
 ### 🌐 My Portfolio
-[**Checkout my new Portfolio Site!**](https://nafi62742.github.io/Nafi62742)
+
+[**Checkout my new Portfolio Site!**](https://nafi62742.github.io/Nafi62742/)
 
 ---
 
 ### 🔗 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Nafi62742)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nafi62742)
