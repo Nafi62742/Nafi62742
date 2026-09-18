@@ -1,5 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     
+    // Initialize Lucide Icons
+    if (window.lucide) {
+        lucide.createIcons();
+    }
+
     // Add fade-in classes to elements
     const fadeElements = document.querySelectorAll('.skill-card, .project-card, .section-title, .contact-card');
     fadeElements.forEach(el => {

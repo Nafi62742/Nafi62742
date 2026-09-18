@@ -15,11 +15,7 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="style.css" />
-    <script
-      src="https://kit.fontawesome.com/b01ea41e04.js"
-      crossorigin="anonymous"
-    ></script>
-    <!-- Placeholder for FontAwesome -->
+    <script src="https://unpkg.com/lucide@latest"></script>
   </head>
   <body>
     <div id="blob-bg"></div>
@@ -51,13 +47,13 @@
               href="https://github.com/Nafi62742"
               target="_blank"
               class="btn-secondary"
-              ><i class="fab fa-github"></i> GitHub</a
+              ><i data-lucide="github"></i> GitHub</a
             >
             <a
               href="https://www.linkedin.com/in/racer007/"
               target="_blank"
               class="btn-secondary"
-              ><i class="fab fa-linkedin"></i> LinkedIn</a
+              ><i data-lucide="linkedin"></i> LinkedIn</a
             >
           </div>
         </div>
@@ -239,7 +235,7 @@
                 href="https://github.com/Nafi62742/expense_manager"
                 target="_blank"
                 class="project-link"
-                >Source Code <i class="fas fa-arrow-right"></i
+                >Source Code <i data-lucide="arrow-right"></i
               ></a>
             </div>
           </article>
@@ -258,7 +254,7 @@
                 href="https://github.com/Nafi62742/School-Management-System"
                 target="_blank"
                 class="project-link"
-                >Source Code <i class="fas fa-arrow-right"></i
+                >Source Code <i data-lucide="arrow-right"></i
               ></a>
             </div>
           </article>
@@ -277,7 +273,7 @@
                 href="https://github.com/Nafi62742/Voice-record-and-player"
                 target="_blank"
                 class="project-link"
-                >Source Code <i class="fas fa-arrow-right"></i
+                >Source Code <i data-lucide="arrow-right"></i
               ></a>
             </div>
           </article>
@@ -296,7 +292,7 @@
                 href="https://github.com/Nafi62742/Getfund"
                 target="_blank"
                 class="project-link"
-                >Source Code <i class="fas fa-arrow-right"></i
+                >Source Code <i data-lucide="arrow-right"></i
               ></a>
             </div>
           </article>
@@ -315,7 +311,7 @@
                 href="https://github.com/Nafi62742/Demo-Flutter"
                 target="_blank"
                 class="project-link"
-                >Source Code <i class="fas fa-arrow-right"></i
+                >Source Code <i data-lucide="arrow-right"></i
               ></a>
             </div>
           </article>
@@ -332,7 +328,7 @@
                 href="https://github.com/Nafi62742/Flour_To_Pastry"
                 target="_blank"
                 class="project-link"
-                >Source Code <i class="fas fa-arrow-right"></i
+                >Source Code <i data-lucide="arrow-right"></i
               ></a>
             </div>
           </article>
@@ -357,6 +353,9 @@
                 font-family: &quot;Fira Code&quot;, monospace;
                 cursor: pointer;
                 transition: color 0.3s ease;
+                display: inline-flex;
+                align-items: center;
+                gap: 0.5rem;
               "
               onmouseover="this.style.color = '#6366f1'"
               onmouseout="this.style.color = '#a0a0a0'"
@@ -365,8 +364,8 @@
                 alert('Email address copied to clipboard!');
               "
             >
-              <i class="far fa-envelope"></i> nafiahmed318@gmail.com
-              <i class="far fa-copy" title="Copy to clipboard"></i>
+              <i data-lucide="mail"></i> nafiahmed318@gmail.com
+              <i data-lucide="copy" title="Copy to clipboard"></i>
             </p>
           </div>
         </div>
@@ -376,9 +375,13 @@
     <footer>
       <p>&copy; 2026 Nafi Ahmed. Built with precision.</p>
       <div class="socials">
-        <a href="https://github.com/Nafi62742"><i class="fab fa-github"></i></a>
-        <a href="https://www.linkedin.com/in/racer007/"
-          ><i class="fab fa-linkedin"></i
+        <a href="https://github.com/Nafi62742" aria-label="GitHub"
+          ><i data-lucide="github"></i
+        ></a>
+        <a
+          href="https://www.linkedin.com/in/racer007/"
+          aria-label="LinkedIn"
+          ><i data-lucide="linkedin"></i
         ></a>
       </div>
     </footer>
